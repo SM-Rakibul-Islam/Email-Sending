@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Send Email</string>
+    <string name="editText1">Recipients Email address..</string>
+    <string name="editText2">Write the main perpose of mail..</string>
+    <string name="editText3">Write your email message..</string>
+</resources>
